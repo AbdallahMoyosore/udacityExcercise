@@ -13,13 +13,12 @@ deployment of the microservice API.
 
 1. Sign in to the Azure portal at https://portal.azure.com.
 2. Open the Azure CLI by selecting the Cloud Shell button on the portal's toolbar:
-![image](https://user-images.githubusercontent.com/10676900/141246306-5425b15c-d386-4852-a2e1-21f054d67680.png)
-
+![image](https://user-images.githubusercontent.com/10676900/141246461-a14c91e4-e357-421f-865b-51e039fc6d6d.png)
 
 
 3. The Cloud Shell appears along the bottom of the browser. Select Bash from the dropdown:
 
-   ![Uploading image.png…]()
+  ![image](https://user-images.githubusercontent.com/10676900/141246497-10d0f98d-c126-42ad-9000-2bf8a7ed6e9c.png)
 
 4. [On GitHub,](https://github.com) fork the repository https://github.com/AbdallahMoyosore/UdacityFinalProject.git
    into your [GitHub account.](https://github.com)
