@@ -13,14 +13,15 @@ deployment of the microservice API.
 
 1. Sign in to the Azure portal at https://portal.azure.com.
 2. Open the Azure CLI by selecting the Cloud Shell button on the portal's toolbar:
+![image](https://user-images.githubusercontent.com/10676900/141246306-5425b15c-d386-4852-a2e1-21f054d67680.png)
 
-   ![alt text](/readme-images/azure-cloud-shell-button.png)
+
 
 3. The Cloud Shell appears along the bottom of the browser. Select Bash from the dropdown:
 
-   ![alt text](/readme-images/azure-cloud-shell-interface.png)
+   ![Uploading image.png…]()
 
-4. [On GitHub,](https://github.com) fork the repository https://github.com/mudathirlawal/cicd-for-ml-microservice-api-on-azure.git 
+4. [On GitHub,](https://github.com) fork the repository https://github.com/AbdallahMoyosore/UdacityFinalProject.git
    into your [GitHub account.](https://github.com)
 
 5. In the Cloud Shell, clone the repository using `git clone`. As in:
